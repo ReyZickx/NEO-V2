@@ -1,5 +1,5 @@
 Encoded version of uxrxt made by me,
-I encoded it to public and make this tool free for some user.
+I encoded it to publish and make this tool free for some user.
 
 git pull 
 
