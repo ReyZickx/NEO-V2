@@ -3,8 +3,8 @@ I encoded it to publish and make this tool free for some user.
 
 git pull 
 
-git clone https://github.com/ReyZickx/NEO-V2.git 
+git clone https://github.com/ReyZickx/NEO-V3.git 
 
-cd NEO-V2
+cd NEO-V3
 
  python3 run.py
